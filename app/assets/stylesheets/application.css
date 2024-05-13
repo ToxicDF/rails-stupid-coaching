@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+.qa{
+  border-left: 5px solid gray;
+  padding-left: 10px;
+}
